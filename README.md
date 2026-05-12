@@ -1,16 +1,23 @@
-## Hi there 👋
+# How's it going? I'm Felipe. 👋
 
-<!--
-**QueirozFelipe/QueirozFelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Looks like you've somehow landed on my GitHub page! 
+Please be welcome. 
 
-Here are some ideas to get you started:
+I'm a Fullstack Engineer mostly backend oriented, focusing on **Java**, but I manage with some **React** as well.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🏗️ What I'm up to:
+- **Learning:** Currently diving deep into Distributed Systems Architecture Post-grad.
+- **Projects:** Working on property management systems, channel managers and improving system scalability.
+- **Location:** Based in Florianópolis AKA The Silicon Island 🌴.
+
+### 🛠 Tech Toolbox:
+- **Core:** Java, Spring Boot, Quarkus.
+- **Frontend:** React.js, JavaScript, TypeScript.
+- **Architectural Interests:** Microservices, Clean Arch, DDD, and Distributed Patterns.
+
+---
+
+### 📬 Let's talk?
+If you want to chat about software & coding, feel free to reach out.
